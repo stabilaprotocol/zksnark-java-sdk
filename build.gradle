@@ -8,7 +8,7 @@ buildscript {
     }
 }
 
-group = "com.github.tronprotocol"
+group = "com.github.stabilaprotocol"
 ext.githubProjectName = "zksnark-java-sdk"
 
 version = project.properties["release.version"]
