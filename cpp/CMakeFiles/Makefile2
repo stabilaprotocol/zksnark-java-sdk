@@ -63,8 +63,8 @@ CMAKE_BINARY_DIR = /home/dv/IdeaProjects/zksnark-java-sdk/cpp
 # Target rules for target CMakeFiles/zksnarkjni.dir
 
 # All Build rule for target.
-CMakeFiles/zksnarkjni.dir/all: CMakeFiles/rust.dir/all
 CMakeFiles/zksnarkjni.dir/all: CMakeFiles/libsodium.dir/all
+CMakeFiles/zksnarkjni.dir/all: CMakeFiles/rust.dir/all
 	$(MAKE) -f CMakeFiles/zksnarkjni.dir/build.make CMakeFiles/zksnarkjni.dir/depend
 	$(MAKE) -f CMakeFiles/zksnarkjni.dir/build.make CMakeFiles/zksnarkjni.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dv/IdeaProjects/zksnark-java-sdk/cpp/CMakeFiles --progress-num=17,18,19,20,21,22 "Built target zksnarkjni"
