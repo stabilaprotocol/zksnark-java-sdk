@@ -1,0 +1,13 @@
+# Target labels
+ librustzcash
+# Source files and their labels
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/CMakeFiles/librustzcash
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/CMakeFiles/librustzcash.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/CMakeFiles/librustzcash-complete.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/rust/src/librustzcash-stamp/librustzcash-install.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/rust/src/librustzcash-stamp/librustzcash-mkdir.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/rust/src/librustzcash-stamp/librustzcash-download.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/rust/src/librustzcash-stamp/librustzcash-update.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/rust/src/librustzcash-stamp/librustzcash-patch.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/rust/src/librustzcash-stamp/librustzcash-configure.rule
+/home/dv/IdeaProjects/zksnark-java-sdk/cpp/rust/src/librustzcash-stamp/librustzcash-build.rule
