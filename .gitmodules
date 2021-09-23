@@ -1,5 +1,4 @@
 [submodule "rust/librustzcash"]
 	path = rust/librustzcash
 	url = https://github.com/stabilaprotocol/librustzcash.git
-	branch = main
-	ignore=dirty
+	branch = master
