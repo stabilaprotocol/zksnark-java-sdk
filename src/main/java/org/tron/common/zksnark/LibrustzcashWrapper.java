@@ -1,7 +1,7 @@
-package org.tron.common.zksnark;
+package org.stabila.common.zksnark;
 
 import java.io.IOException;
-import org.tron.common.util.Utils;
+import org.stabila.common.util.Utils;
 
 public class LibrustzcashWrapper {
   private static final Librustzcash INSTANCE = new Librustzcash();
