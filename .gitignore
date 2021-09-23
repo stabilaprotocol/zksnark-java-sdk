@@ -35,4 +35,5 @@ out
 /cpp/CMakeFiles
 /cpp/rust/*
 /cpp/include/*
+/cpp/libzksnarkjni.so
 
