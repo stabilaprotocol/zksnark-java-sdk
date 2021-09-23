@@ -32,3 +32,7 @@ build
 cmake-build-debug
 *.iml
 out
+/cpp/CMakeFiles/*
+/cpp/rust/*
+/cpp/include/*
+
