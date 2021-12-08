@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/jedisct1/libsodium/releases/download/1.0.15/libsodium-1.0.15.tar.gz'
+tag=''
